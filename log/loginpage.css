@@ -1,0 +1,23 @@
+
+#bmt_foto {
+    width: 320px;
+    
+}
+.login {
+    position: relative;
+    z-index: 2;
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    /* background: white; */
+}
+
+.img-belakang {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
